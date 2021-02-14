@@ -1,0 +1,22 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  height: 350px;
+  width: 450px;
+  margin: 50px auto;
+}
+
+img {
+  margin: 5px;
+  border-radius: 10px;
+}
+body {
+  background-color: #cdd8ea;
+}
+
+h3 {
+  font-family: 'Lora', serif;
+  text-align: center;
+  font-size: 22px;
+  margin-top: 40px;
+}
